@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Yaseen 👋
+Flutter developer from Pakistan.
 
-<!--
-**yaseenkhan92/yaseenkhan92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work on
+- Building cross-platform mobile apps (Android and iOS) with Flutter and Dart
+- Connecting apps to backend servers with REST APIs (Dio, JSON, token login)
+- User login, profiles, and secure token storage
+- Google Maps and location features
+- Push notifications with Firebase
+- Working with generated API clients (OpenAPI)
+- Clean, reusable UI that works on different screen sizes
 
-Here are some ideas to get you started:
+## Tech stack
+Flutter · Dart · Dio · REST API · Firebase · Google Maps · Git · GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: https://www.linkedin.com/in/muhammad-yaseen-513b20408/
+- Email: yaseenkhan922076@gmail.com
