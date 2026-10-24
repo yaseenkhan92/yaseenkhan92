@@ -2,13 +2,18 @@
 Flutter developer from Pakistan.
 
 ## What I work on
-- Building cross-platform mobile apps (Android and iOS) with Flutter and Dart
-- Connecting apps to backend servers with REST APIs (Dio, JSON, token login)
-- User login, profiles, and secure token storage
-- Google Maps and location features
-- Push notifications with Firebase
-- Working with generated API clients (OpenAPI)
-- Clean, reusable UI that works on different screen sizes
+## What I work on
+- Building cross-platform mobile apps for Android and iOS from one codebase with Flutter and Dart
+- Designing clean, responsive user interfaces that work on phones and tablets
+- Connecting apps to backend servers with REST APIs and JSON
+- Handling user login, profiles, and secure token storage
+- Managing app state so screens stay fast and predictable
+- Using Google Maps, location, and device features like camera and notifications
+- Adding Firebase services such as push notifications and authentication
+- Writing clean, reusable, and well-organized code with widgets and packages
+- Debugging and fixing issues, and improving app performance
+- Using Git and GitHub to track changes and manage projects
+- Preparing apps for release on Google Play and the App Store
 
 ## Tech stack
 Flutter · Dart · Dio · REST API · Firebase · Google Maps · Git · GitHub
