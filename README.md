@@ -1,7 +1,5 @@
 # Hi, I'm Yaseen 👋
-Flutter developer from Pakistan.
-
-## What I work on
+Flutter developer from Pakistan
 ## What I work on
 - Building cross-platform mobile apps for Android and iOS from one codebase with Flutter and Dart
 - Designing clean, responsive user interfaces that work on phones and tablets
